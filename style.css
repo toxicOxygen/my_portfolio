@@ -101,6 +101,11 @@ body {
     border-radius: 10px;
 }
 
+.grid-item a{
+    text-decoration: none;
+    color: white;
+}
+
 .mycard>h5{
     color: orangered;
     font-size: 19px;
