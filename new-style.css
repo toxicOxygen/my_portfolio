@@ -1,0 +1,17 @@
+#welcome-section{
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+#contact{
+    height: 70vh;
+}
+
+#projects{
+    background-color: #45567D;
+}
+
+.project-tile img {
+    height: 300px;
+    object-fit: cover;
+}
